@@ -109,3 +109,21 @@ h3{
     margin-bottom: 96px;
   
 }
+h5{
+    display: inline-block;
+    width: 216px;
+    height: 26px;
+    color: white;
+    size: 22px;
+}
+h4{
+    display: inline-block;
+    width: 216px;
+    height: 26px;
+    color: white;
+    size: 22px;
+    position: absolute;
+    margin-right: 1240px
+
+}
+  
