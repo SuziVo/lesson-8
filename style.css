@@ -34,6 +34,7 @@ iframe{
     height: 197px;
     margin-top: 58px;
     margin-right: 240px;
+    border-radius: 15px;
     
 
 }
@@ -79,23 +80,32 @@ button{
     margin-left: 241px;
     width: 151px;
     height: 55px;
-    margin-top: 161px;
+    margin-top: 101px;
     
 }
 h2{
     margin: auto;
 }
-
-h4{
-    width: 106px;
-    height: 16px;
-    size: 13px;
+footer{
+    position: absolute;
+    margin-top: 1000px;
+    margin-right: 1070px;
+    margin-bottom: 40px;
+    width: 209px;
+    height: 19px;
+    size: 16px;
     color: white;
-    margin-bottom: 42px;
-    margin-right: 469px;
 }
-img{
-    width: 26px;
-    height: 26px;
-    margin-bottom: 142px;
+h3{
+    margin-left: 896px;
+    margin-bottom: 40px;
+    width: 209px;
+    height: 19px;
+    color: white;
+    font-size: 13px;
+}
+.second-footer{
+    position: absolute;
+    margin-bottom: 96px;
+  
 }
