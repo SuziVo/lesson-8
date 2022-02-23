@@ -42,35 +42,60 @@ iframe{
     height: 100px;
     background-color: blueviolet;
 }
-img {
+.p-icon{
     width: 70px;
     height: 70px;
     border-radius: 50%;
-}
-.phone{
-    margin-right: 240px; 
+    margin-right: 296px;
     margin-top: 60px;
 }
-.email {
+.e-icon{
     width: 70px;
     height: 70px;
-    margin-top: 70px;
-    margin-left: 9px;
-  
+    border-radius: 50%;
+    margin-top: 60px;
 }
 .icons{
     display: flex;
-    justify-content: space-evenly;
-
+    flex-direction: row;
 }
-.phone-text{
-    display: inline-block;
-    width: 178px;
-    height: 26px;
-    size: 22px;
+.registration{
+    margin-top: 373px;
+}
+.form-row{
+    margin-bottom: 81px;
+    width: 117px;
+    height: 19px;
+    size: 16px;
     color: white;
-    margin-top: 92px;
 }
-.email-text{
-    display: inline-block;
+input{
+    background-color: #0a22f4;
+    background-color: transparent;
+    border: 0px solid;
+}
+button{
+    border-radius: 28px;
+    margin-left: 241px;
+    width: 151px;
+    height: 55px;
+    margin-top: 161px;
+    
+}
+h2{
+    margin: auto;
+}
+
+h4{
+    width: 106px;
+    height: 16px;
+    size: 13px;
+    color: white;
+    margin-bottom: 42px;
+    margin-right: 469px;
+}
+img{
+    width: 26px;
+    height: 26px;
+    margin-bottom: 142px;
 }
